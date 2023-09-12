@@ -1,5 +1,5 @@
-('eu sou admirada por muitos','alegria'),
-('me sinto completamente amado','alegria'),
+('eu sou, admirada por muitos','alegria'),
+('me sinto, completamente amado','alegria'),
 ('amar e maravilhoso','alegria'),
 ('estou me sentindo muito animado novamente','alegria'),
 ('eu estou muito bem hoje','alegria'),
