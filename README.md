@@ -1,5 +1,5 @@
 
-Bem-vindo ao Repositório de Classificação de Texto com TensorFlow! 
+Bem-vindo ao Repositório de Classificação de Texto com TensorFlow! <br>
 Este projeto é dedicado à aplicação da poderosa biblioteca de aprendizado de máquina, TensorFlow, para a tarefa empolgante de classificação de texto. Se você está interessado em entender como as máquinas podem aprender a compreender e categorizar automaticamente textos, este é o lugar certo.
 
 O que você encontrará aqui:
